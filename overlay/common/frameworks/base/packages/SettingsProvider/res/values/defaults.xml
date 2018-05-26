@@ -20,4 +20,14 @@
     <bool name="def_wifi_on">true</bool>
 
     <string name="def_backup_transport">com.google.android.gms/.backup.BackupTransportService</string>
+
+    <integer name="def_lockscreen_sounds_enabled">0</integer>
+
+    <!-- Default for DTMF tones disabled -->
+    <bool name="def_dtmf_tones_enabled">false</bool>
+
+    <!-- Default for UI touch sounds disabled -->
+    <bool name="def_sound_effects_enabled">false</bool>
+
+    <bool name="def_haptic_feedback">false</bool>
 </resources>
